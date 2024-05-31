@@ -94,4 +94,4 @@ localhost:3000/register
 
 ## for search option I had already made so ill just link that here 🥲🥲
 
-https://github.com/aasim-syed/fasal-Assignment-SDE-Intern
+https://github.com/NishantDixit1/fasal-Assignment-SDE-Intern
